@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>759571913520-as8oio2i5nbsbho83vgfv0fmb31unfpb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.759571913520-as8oio2i5nbsbho83vgfv0fmb31unfpb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDe1g1vHmAA9U617XY308_3HbhMAfYTOpk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>759571913520</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cameraTranslateApp</string>
+	<key>PROJECT_ID</key>
+	<string>cameraapppp-6be1f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cameraapppp-6be1f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:759571913520:ios:dd82109a814ec04a8106f5</string>
+</dict>
+</plist>
